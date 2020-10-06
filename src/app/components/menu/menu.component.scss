@@ -1,0 +1,13 @@
+.to-the-right {
+  float: right;
+  a {
+    // padding-left: 2%;
+  }
+  :not(:last-child):after {
+    content: ' || '
+  }
+}
+
+nav {
+  width: 100%;
+}

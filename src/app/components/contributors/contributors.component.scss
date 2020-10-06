@@ -1,0 +1,10 @@
+@import '../../main.scss';
+
+ul {
+  li {
+    // :before {
+    //   background-image: url('../../../assets/images/thumb.jpeg');
+    // }
+    list-style-image: url('../../../assets/images/thumb_burned.jpg');
+  }
+}
