@@ -25,4 +25,4 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 5) Add your favorite IDE to the Ide component located `/src/app/components/ide`
 6) Maybe add some cool code? I don't know, do you
 7) `git commit -am '{your message here}'` -am does an add and a message
-7) Put in a pull request
+8) Put in a pull request
